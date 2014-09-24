@@ -1,0 +1,4 @@
+#
+# system.prop for a808t
+#
+ro.cwm.enable_key_repeat = true
